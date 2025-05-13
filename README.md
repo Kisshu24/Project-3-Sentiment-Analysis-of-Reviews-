@@ -1,7 +1,7 @@
 # Project-3-Sentiment-Analysis-of-Reviews-
 ## This is a project to perform sentiment analysis on reviews using an API such as Yelp Fusion
 
-## My Analysis include the following:
+## My Analysis include the following in the file Project-3:
 
 ### Introduction
 - Use the API to search for at least 60 reviews about your topic. (Note Yelp Fusion only delivers 3 reviews per business.)
